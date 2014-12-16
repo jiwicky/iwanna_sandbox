@@ -1,3 +1,5 @@
+# Ignore this stuff
+
 cache/
 config/databases.yml
 log/
